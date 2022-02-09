@@ -4,8 +4,9 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h2>First Branch</h2>
+      <h2>Second Branch</h2>
       <p>Modified Content</p>
+      <p>Added Extra Content</p>
     </div>
   );
 }
